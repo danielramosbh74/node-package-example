@@ -1,0 +1,19 @@
+{
+  "name": "@danielramosbh74/node-package-example",
+  "version": "1.0.0",
+  "description": "GitHub Package Registry Node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielramosbh74/node-package-example.git"
+  },
+  "author": "Daniel Ramos de Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielramosbh74/node-package-example/issues"
+  },
+  "homepage": "https://github.com/danielramosbh74/node-package-example#readme"
+}
